@@ -89,6 +89,7 @@ body {
     background-color: violet;
     display: flex;
     padding: 5%;
+    overflow: hidden;
 }
 
 #seche-linges{
@@ -124,12 +125,6 @@ body {
     margin-bottom: 3%;
     text-align: center;
 }
-
-/*******************************Footer*******************************/
-footer{
-    padding:5%;
-    background-color:black;
-  }
 
 /*******************************Timer*******************************/
 .timer {
@@ -174,3 +169,8 @@ footer{
     background: #ff0256;
   }
   
+/*******************************Footer*******************************/
+footer{
+    padding:5%;
+    background-color:black;
+  }
